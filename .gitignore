@@ -7,3 +7,10 @@ venv
 __pycache__
 
 .idea
+
+
+main.spec
+
+build
+
+dist
